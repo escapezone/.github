@@ -17,7 +17,6 @@
         <h4>Web Client</h4>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
-         <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=Next.js&logoColor=black" />
     </div>
     <br/>
     <div>
